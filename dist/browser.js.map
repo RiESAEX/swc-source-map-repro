@@ -1,0 +1,1 @@
+{"version":3,"sources":["./src/browser.js"],"sourcesContent":["\"use strict\";\n\nexport { default as Selection } from \"./selection\";\n\nexport { default as RichTextarea } from \"./richTextarea\";\n"],"names":["Selection","default","RichTextarea"],"mappings":"AAAA,YAAY,CAAC;;;;+BAEOA,WAAS;;;0BAApBC,OAAO;;;+BAEIC,cAAY;;;6BAAvBD,OAAO;;;gDAFqB,aAAa;mDAEV,gBAAgB"}
